@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "386697504013",
+    "project_id": "mobileapp170-304f1",
+    "storage_bucket": "mobileapp170-304f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386697504013:android:316efa49c96c9fd5993c44",
+        "android_client_info": {
+          "package_name": "com.example.lab06"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386697504013-0s00jmtr2ielb061pd0ss85ak2f0licg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lab06",
+            "certificate_hash": "ab37d71fd62d709161889f123307f322a94c7f32"
+          }
+        },
+        {
+          "client_id": "386697504013-a2htsn17q423e9934lo6vgkjcr823j4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5pttQNgmzzHAI3MuwswyKXRLtujcQO18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386697504013-a2htsn17q423e9934lo6vgkjcr823j4h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "386697504013-7c56u2s0jm45cl6h18lf88uoiql4vv5b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lab07"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386697504013:android:625fcece1bc9af6e993c44",
+        "android_client_info": {
+          "package_name": "com.example.lab07"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386697504013-a2htsn17q423e9934lo6vgkjcr823j4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5pttQNgmzzHAI3MuwswyKXRLtujcQO18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386697504013-a2htsn17q423e9934lo6vgkjcr823j4h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "386697504013-7c56u2s0jm45cl6h18lf88uoiql4vv5b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lab07"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
